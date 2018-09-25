@@ -45,5 +45,9 @@ body {
 
 .box-2 {
   /*background-color: hsl(240, 70%, 50%);*/
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAKklEQVQYV2O8c//T/4sXjjHoG1gxwGjGtet3/P92+DUDl60oA4xmpEwlADDWLzBU5xboAAAAAElFTkSuQmCC);
+  /*background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAKklEQVQYV2O8c//T/4sXjjHoG1gxwGjGtet3/P92+DUDl60oA4xmpEwlADDWLzBU5xboAAAAAElFTkSuQmCC); */
+  background: #DA56D4;
+background: -webkit-linear-gradient(bottom right, #DA56D4, #708DE1);
+background: -moz-linear-gradient(bottom right, #DA56D4, #708DE1);
+background: linear-gradient(bottom right, #DA56D4, #708DE1);
 }
