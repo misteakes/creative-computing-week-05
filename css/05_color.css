@@ -38,7 +38,11 @@ body {
 }
 
 .box-1 {
-  background-color: hsl(220, 70%, 50%);
+  /*background-color: hsl(220, 70%, 50%);*/
+  background: #DA56D4;
+background: -webkit-linear-gradient(top left, #DA56D4, #708DE1);
+background: -moz-linear-gradient(top left, #DA56D4, #708DE1);
+background: linear-gradient(top left, #DA56D4, #708DE1);
   top: 55%;
   left: 55%;
 }
