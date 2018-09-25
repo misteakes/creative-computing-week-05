@@ -18,7 +18,8 @@ body {
   font-size: 0;
   height: 100%;
   width: 100%;
-  background-color: hsl(200, 70%, 50%);
+  /*background-color: hsl(200, 70%, 50%);*/
+  background-image: url(../images/manatee.jpg);
 }
 
 .center {
